@@ -1,0 +1,31 @@
+{
+    "name": "mtcrackcha",
+    "description": "a simple library that uses Gemini to solve MTCaptcha challenges",
+    "version": "1.0.0",
+    "type": "module",
+    "author": {
+        "name": "VillainsRule",
+        "url": "https://github.com/VillainsRule"
+    },
+    "homepage": "https://github.com/VillainsRule/mtcrackcha",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/VillainsRule/mtcrackcha.git"
+    },
+    "main": "./lib/MTCaptcha.js",
+    "types": "./lib/MTCaptcha.d.ts",
+    "bugs": {
+        "url": "https://github.com/VillainsRule/mtcrackcha/issues"
+    },
+    "files": [
+        "package.json",
+        "lib/**/*.js",
+        "lib/**/*.d.ts",
+        "README.md"
+    ],
+    "keywords": [
+        "mtcaptcha",
+        "captcha",
+        "solver"
+    ]
+}

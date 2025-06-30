@@ -1,0 +1,9 @@
+# modules
+node_modules
+bun.lock
+
+# test secrets
+.env
+
+# mac conf
+.DS_Store
